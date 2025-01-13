@@ -1,5 +1,3 @@
-numpy==1.15.1
-torch==0.4.1
+numpy
 tqdm
 yacs
-comet_ml  # for hyperparameters logging
